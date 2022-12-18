@@ -1,0 +1,619 @@
+/* - - - - - animasyonlar - - -  */
+.text-animationn-1{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-1::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-1:hover::before{
+    width: 38%;
+}
+
+
+
+.text-animationn-2{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-2::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-2:hover::before{
+    width: 30%;
+}
+
+
+.text-animationn-3{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-3::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-3:hover::before{
+    width: 40%;
+}
+
+
+.text-animationn-4{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-4::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-4:hover::before{
+    width: 35%;
+}
+
+.text-animationn-5{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-5::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-5:hover::before{
+    width: 35%;
+}
+
+.text-animationn-6{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-6::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-6:hover::before{
+    width: 66%;
+}
+
+.text-animationn-7{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-7::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-7:hover::before{
+    width: 70%;
+}
+
+.text-animationn-8{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-8::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-8:hover::before{
+    width: 75%;
+}
+
+
+.text-animationn-9{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-9::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-9:hover::before{
+    width: 100%;
+}
+
+.text-animationn-10{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-10::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-10:hover::before{
+    width: 45%;
+}
+
+
+.text-animationn-11{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-11::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-11:hover::before{
+    width: 72%;
+}
+
+.text-animationn-12{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-12::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-12:hover::before{
+    width: 70%;
+}
+
+
+.text-animationn-13{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-13::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-13:hover::before{
+    width: 80%;
+}
+
+
+.text-animationn-14{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-14::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-14:hover::before{
+    width: 65%;
+}
+
+
+.text-animationn-15{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-15::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-15:hover::before{
+    width: 95%;
+}
+
+
+.text-animationn-16{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-16::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-16:hover::before{
+    width: 100%;
+}
+
+
+.text-animationn-17{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-17::before{
+    content: "";
+    position: absolute;
+    left: 40px;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.20s ease-out;
+}
+
+.text-animationn-17:hover::before{
+    width: 45%;
+}
+
+
+.text-animationn-18{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-18::before{
+    content: "";
+    position: absolute;
+    left: 40px;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.20s ease-out;
+}
+
+.text-animationn-18:hover::before{
+    width: 52%;
+}
+
+
+.text-animationn-19{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-19::before{
+    content: "";
+    position: absolute;
+    left: 40px;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.20s ease-out;
+}
+
+.text-animationn-19:hover::before{
+    width: 48%;
+}
+
+
+.text-animationn-20{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-20::before{
+    content: "";
+    position: absolute;
+    left: 40px;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.20s ease-out;
+}
+
+.text-animationn-20:hover::before{
+    width: 40%;
+}
+
+.text-animationn-21{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-21::before{
+    content: "";
+    position: absolute;
+    left: 40px;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.20s ease-out;
+}
+
+.text-animationn-21:hover::before{
+    width: 52%;
+}
+
+
+.text-animationn-22{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-22::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-22:hover::before{
+    width: 70%;
+}
+
+.text-animationn-23{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-23::before{
+    content: "";
+    position: absolute;
+    left: 35px;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-23:hover::before{
+    width: 28%;
+}
+
+
+.text-animationn-24{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.text-animationn-24::before{
+    content: "";
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.text-animationn-24:hover::before{
+    width: 90%;
+}
+
+
+
+.image-1{
+    display: inline-block;
+}   
+
+figure{
+    overflow: hidden;
+    border-radius: 20px;
+    margin: 0 0px;
+}
+
+.image-1 img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.image-1 #zoom-in figure img{
+    transform: scale(1);
+    transition: 0.3s ease-in-out;
+    
+}
+
+.image-1 #zoom-in figure:hover img{
+    transform: scale(1.1);
+}
+
+
+.link span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+.link span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -10px;
+    transition: 0.5s;
+  }
+  
+.link:hover span {
+    padding-right: 25px;
+  }
+  
+.link:hover span:after {
+    opacity: 20;
+    right: 0;
+  }
+
+
+  .star-homun-yani{
+    padding-top: 15px;
+    margin-left: 20px;
+  }
+
+  .home-text{
+    margin-top: -32px;
+  }
+.home-text-1-2{
+    margin-top: 0px;
+}
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 5;
+    margin-top: 40px;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .man-sola-1-2 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .drop-text{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 100;
+  }
+
+
+  #myBtn {
+    width: 90px;
+    height: 90px;
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #EF6436;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 60px;
+    transition: transform .3s ease-out;
+
+  }
+  
+  #myBtn:hover {
+    background-color: #d7592e;
+    transform: scale(1.1);
+  }

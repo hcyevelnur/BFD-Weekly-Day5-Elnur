@@ -1,0 +1,349 @@
+
+@media (min-width: 319px) and (max-width: 767px) {
+    body{
+        background-color: white;
+    }
+    .imageContainer{
+        background-image: url(../img/111-2.jpeg);
+        background-size: cover;
+    }
+    .text-create{
+        padding-left: 0px;
+    }
+    .ara-nav{
+        display: block;
+        color: white;
+    }
+    .nav-flex{
+        padding-top: 0px;
+        padding: 0 30px;
+    }
+    .ara-nav{
+        display: none;
+    }
+    .rgh-icon{
+        display: none;
+    }
+    .top-btn{
+        display: none;
+    }
+    .rgh-seacrh{
+        display: none;
+    }
+    #resim{
+        display: none;
+        
+    }
+    .cards-flex{
+        display: block;
+        text-align: center;
+    }
+    .img-right-1{
+        padding-left: 0px;
+    }
+    .logolar-orta{
+        display: block;
+    }
+    .logo-ara{
+        padding-top: 40px;
+        padding-left: 0px;
+    }
+    .xanim-orta{
+        display: block;
+    }
+    .text-3{
+        font-size: 25px;
+        padding-left: 10px;
+        margin-right: -100px;
+    }
+    .text-4{
+        display: block;
+        text-align: justify;
+        padding-left: 20px;
+        margin-right: -90px;
+        font-size: 12px;
+    }
+    .text-5{
+        display: block;
+        text-align: justify;
+        padding-left: 20px;
+        margin-right: -90px;
+        font-size: 12px;
+    }
+    .text-6{
+        display: block;
+        text-align: justify;
+        padding-left: 20px;
+        margin-right: -90px;
+        font-size: 12px;
+        margin-bottom: -100px;
+    }
+    .benefis-orta{
+        font-size: 20px;
+        padding-left: 10px;
+        padding-top: 0px;
+        display: block;
+    }
+    .text-1-1-sola{
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 40px;
+        text-align: start;
+    }
+    .flex-yap{
+        display: block;
+    }
+    .flex-1-2{
+        font-size: 20px;
+        padding-left: 0px;
+    }
+    .man-flex{
+        padding-left: 0px;
+        display: block;
+    }
+    .ust{
+        display: none;
+    }
+    .text-top{
+        padding-top: 40px;
+        padding-left: 0px;
+    }
+    #view-txt{
+        text-align: start;
+        padding-left: 15px;
+        font-size: 30px;
+        display: block;
+        padding-right: 0px;
+    }
+    .card-flex1{
+        padding-left: 0px;
+        display: block;
+    }
+    .card-rigt-1-1{
+        padding-left: 0px;
+    }
+    .group-flexx{
+        font-size: 15px;
+        padding-left: 30px;
+        display: block;
+        padding-top: 30px;
+    }
+    .btn-top{
+        padding-left: 10px;
+    }
+    .man-text-1-2{
+        padding-left: 10px;
+        text-align: start;
+        font-size: 20px;
+        
+    }
+    .btn-top-1{
+        padding-top: 0px;
+    }
+    .man-opacity{
+        padding-left: 10px;
+    }
+    .son-flexx
+    {
+        display: block;
+    }
+    .son-black{
+        height: 1071px;
+    }
+    .man-text-1-3{
+        padding-left: 10px ;
+        font-size: 14px;
+        text-align: start;
+    }
+    #yazi{
+        padding-right: 0px;
+    }
+    .son-flexx{
+        text-align: start;
+        padding-left: 60px;
+    }
+    #mansag{
+        padding-left: 0px;
+    }
+    .solaa-1{
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+    .boton-text{
+        padding-left: 0px;
+    }
+    .flex-yap{
+        padding-right: 0px;
+        
+    }
+
+    .top-son-22{
+        margin-top: 100px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .card-witdh{
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .card{  
+        width: 100%;
+    }
+    .arxaa-reng-1{
+        background-color: transparent;
+        margin-left: 0px;
+        margin-right: 0px;
+        height: 267px;
+    }
+    .xanim-sola{
+        width: 160%;
+        height: 100%;
+        
+    }
+    .xanim-sola-1{
+        padding-left: 0px;
+    }
+    .man-img{
+        width: 100%;
+    }
+    #myBtn{
+        width: 50px;
+        height: 50px;
+        font-size: 10px;
+    }
+    .son-text-2-1{
+        font-size: 12px;
+        margin-left: 0px;
+    }
+    .group-background-1{
+        padding-top: 90px;
+    }
+    .paraqraf-0-2{
+        font-size: 16px;
+    }
+    .paraqraf-0-3{
+        font-size: 16px;
+    }
+    .paraqraf-0-1{
+        font-size: 16px;
+    }
+    .text2-2-2-1{
+        margin-top: 10px;
+    }
+    .text-1-1{
+        text-align: start;
+        padding-top: 500px;
+        font-size: 40px;
+    }
+    .iconlar-okey{
+        width: 15px;
+    }
+    .nav-2-orta{
+        padding-top: 40px;
+    }
+    .logolar-orta{
+        padding-left: 0px;
+        text-align: center;
+    }
+    .text-font{
+        padding-right: 0px;
+        padding-left: 15px;
+        font-size: 20px;
+        text-align: start;
+    }
+
+    .img-width{
+        margin-top: 20px;
+        width: 90%;
+    }
+    .xanim-orta-25{
+        padding-top: 20px;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 424px) {
+    .xanim-sola{
+        text-align: center;
+        width: 147%;
+        height: 100%;
+        
+    }
+    .son-black{
+        height: 1069px;
+    }
+    .son-text-2-1 {
+        font-size: 15px;
+        margin-left: -30px;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+    .xanim-sola{
+
+        width: 139%;
+        height: 100%;
+        
+    }
+    .son-text-2-1 {
+        font-size: 17px;
+        margin-left: -30px;
+    }
+    .text-3 {
+        font-size: 34px;
+        padding-left: 10px;
+        margin-right: -100px;
+        text-align: start;
+    }
+    .text-4 {
+        display: block;
+        text-align: justify;
+        padding-left: 20px;
+        margin-right: -90px;
+        font-size: 15px;
+        text-align: start;
+    }
+    .text-5 {
+        display: block;
+        text-align: justify;
+        padding-left: 20px;
+        margin-right: -90px;
+        font-size: 15px;
+        text-align: start;
+
+    }
+    .text-6{
+        display: block;
+        text-align: justify;
+        padding-left: 20px;
+        margin-right: -90px;
+        font-size: 15px;
+        text-align: start;
+
+    }
+    .text-1-1 {
+        text-align: start;
+        padding-top: 560px;
+        font-size: 40px;
+    }
+    .son-black{
+        height: 1073px;
+    }
+    
+}
+
+@media (min-width: 414px) and (max-width: 736px) {
+    .xanim-sola {
+        text-align: center;
+        width: 139%;
+        height: 100%;
+    }
+    .son-black{
+        height: 1069px;
+    }
+    .son-text-2-1 {
+        font-size: 15px;
+        margin-left: -30px;
+    }
+
+}
